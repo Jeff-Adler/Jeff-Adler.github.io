@@ -4,6 +4,10 @@ subtitle: Skills, Experience, and Education
 description: Personal Facts and Resume
 featured_image: /images/demo/about.jpg
 ---
+<h4>Location:</h4> 
+
+<strong>Brooklyn, NY</strong> 
+
 <h4>Skills:</h4>
 
 <strong>Proficient:</strong> Ruby, Rails, Javascript, React
@@ -14,9 +18,9 @@ featured_image: /images/demo/about.jpg
 
 <h4>Background:</h4>
 Code is not written in isolation. The technological specifications, business purpose, and user experience must be 
-taken into account. I've had the fortunate opportunity to explore many different roles in my life, all of which have cemented this philosophy. 
+taken into account. I've had the fortunate opportunity to explore many different roles in my life, all of which have cemented this philosophy!
 
-As a graduate student of Linguistics, I learned to explore, evaluate, and adapt complex algorithms to specific tasks. <a href="https://link.springer.com/article/10.1007/s11049-020-09478-8">In this case</a>, to mental models of Natural Language Processing.
+As a graduate student of Linguistics, I learned to adapt complex algorithms to specific tasks. In this case, to <a href="https://link.springer.com/article/10.1007/s11049-020-09478-8">mental models of Natural Language Processing</a>.
 
 As a programmatic ad specialist , I learned the importance of making technology that solves real business problems. By <a href="https://news.semasio.com/market-to-customers-in-their-own-words">applying Natural Language Processing techniques to digital advertising</a>,
 we were able to confer values to marketers, by providing  <a href="https://news.semasio.com/helping-marketers-in-the-search-for-significance">reliable methods of predicting consumer behavior</a>.
