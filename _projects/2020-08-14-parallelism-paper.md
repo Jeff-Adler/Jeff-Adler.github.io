@@ -1,7 +1,7 @@
 ---
 title: 'Assessing Parallel and Serial Models of Language Processing'
 subtitle: 'Exploration of linguistics optimization algorithms'
-date: 2020-08-15 00:00:00
+date: 2020-08-14 00:00:00
 description: This paper examines competing cognitive models for language processing.
 featured_image: '/images/demo/parallel_arrows.jpg'
 ---
