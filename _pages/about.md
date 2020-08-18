@@ -17,16 +17,15 @@ featured_image: /images/demo/about.jpg
 <strong>Additional:</strong>  Spanish, Japanese, Public Speaking, Copywriting, Instructional Design
 
 <h4>Background:</h4>
-Code is not written in isolation. The technological specifications, business purpose, and user experience must be 
-taken into account. I've had the fortunate opportunity to explore many different roles in my life, all of which have cemented this philosophy!
-
-As a graduate student of Linguistics, I learned to adapt complex algorithms to specific tasks. In this case, to <a href="https://link.springer.com/article/10.1007/s11049-020-09478-8">mental models of Natural Language Processing</a>.
+My past experiences have influenced my approach to software development immensely.
 
 As a programmatic ad specialist , I learned the importance of making technology that solves real business problems. By <a href="https://news.semasio.com/market-to-customers-in-their-own-words">applying Natural Language Processing techniques to digital advertising</a>,
 we were able to confer values to marketers, by providing  <a href="https://news.semasio.com/helping-marketers-in-the-search-for-significance">reliable methods of predicting consumer behavior</a>.
 
+As a graduate student of Linguistics, I learned to adapt complex algorithms to specific tasks. In this case, to <a href="https://link.springer.com/article/10.1007/s11049-020-09478-8">mental models of Natural Language Processing</a>.
+
 As a Fulbright English Teaching Assistant, undergraduate Linguistics instructor, and finally, Learning & Development program manager, I 
-learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation-of-talent-to-fuel-a-next-generation-digital-marketing-supply-chain/">design and communication principles</a> necessary to maximally engage and empower a learner or user.
+learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation-of-talent-to-fuel-a-next-generation-digital-marketing-supply-chain/">design and communication principles</a> necessary to maximize learner and user engagement.
 
 <h4>Interests:</h4>
 
