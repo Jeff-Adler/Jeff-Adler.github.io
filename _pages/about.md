@@ -43,7 +43,7 @@ When I'm not programming, I am likely sipping a coffee in the park, chatting wit
           width: 98px;
           height: 160px;
           padding: 0px 0px;
-          overflow: hidden;
+          <!-- overflow: hidden; -->
         }
       </style>
       <div id="gr_grid_widget_1597597863">
