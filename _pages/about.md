@@ -8,6 +8,10 @@ featured_image: /images/demo/about.jpg
 
 <strong>Brooklyn, NY</strong> 
 
+<h4>Email:</h4> 
+
+<strong>JeffM.Adler@gmail.com</strong> 
+
 <h4>Skills:</h4>
 
 <strong>Proficient:</strong> Ruby, Rails, Javascript, React
@@ -29,7 +33,7 @@ learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation
 
 <h4>Interests:</h4>
 
-When I'm not programming, I am likely sipping a coffee in the park, chatting with friends about the relative merits of Goku vs. Superman, or reading! Memorable books include:<br><br>
+When not programming, I'm likely sipping a coffee in the park, discussing the relative merits of PS-era Final Fantasy titles, or reading! Memorable books include:<br><br>
 
 <html>
       <style type="text/css" media="screen">

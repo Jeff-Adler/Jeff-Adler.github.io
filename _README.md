@@ -96,7 +96,7 @@ Here you can set all the different colors used by the theme. Try them out and fi
 
 `font_embed` – add an embed code from an external font service. This allows you to use services like Google Fonts or Typekit.
 `title_font` – set the CSS name for the font used on titles.
-`body_font` – set the CSS anme for the font used for body text.
+`body_font` – set the CSS name for the font used for body text.
 `regular_weight` – set the font weight for regular styled text.
 `bold_weight` – set the font weight for bold styled text.
 
