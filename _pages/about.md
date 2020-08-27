@@ -116,6 +116,10 @@ When not programming, I'm likely sipping a coffee in the park, discussing the re
 
 <h4>Resume:</h4>
 
+<a id="resume_link" href="https://drive.google.com/file/d/19DovazI3Pkbi__J6-vbpBY7vFapihVKF/view?usp=sharing">Resume!</a>
+
+<br/>
+
 <html>
 <body>
     <object id="resume" data="/documents/Resume_5-14-2020.pdf" type="application/pdf" >
