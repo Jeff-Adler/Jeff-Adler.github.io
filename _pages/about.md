@@ -31,6 +31,10 @@ As a graduate student of Linguistics, I learned to appropriately adapt complex a
 As a Fulbright English Teaching Assistant, undergraduate Linguistics instructor, and finally, Learning & Development program manager, I 
 learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation-of-talent-to-fuel-a-next-generation-digital-marketing-supply-chain/">design and communication principles</a> necessary to maximize learner and user engagement.
 
+<h4>Resume:</h4>
+
+<a id="resume_link" href="https://drive.google.com/file/d/19DovazI3Pkbi__J6-vbpBY7vFapihVKF/view?usp=sharing">Updated 5.14.2020</a>
+
 <h4>Interests:</h4>
 
 When not programming, I'm likely sipping a coffee in the park, discussing the relative merits of PS-era Final Fantasy titles, or reading! Memorable books include:<br><br>
@@ -114,17 +118,14 @@ When not programming, I'm likely sipping a coffee in the park, discussing the re
 
 </html>
 
-<h4>Resume:</h4>
-
-<a id="resume_link" href="https://drive.google.com/file/d/19DovazI3Pkbi__J6-vbpBY7vFapihVKF/view?usp=sharing">Resume!</a>
-
-<br/>
-
-<html>
-<body>
+<!--- Embedded PDF viewer: (removed because it renders stretched on mobile)
+<html> 
+<body> 
     <object id="resume" data="/documents/Resume_5-14-2020.pdf" type="application/pdf" >
         <embed src="/documents/Resume_5-14-2020.pdf" type="application/pdf" width=”10000” height=”10000” />
     </object>
-</body>
-</html>
+</body> 
+</html> 
+-->
+
 
