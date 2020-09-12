@@ -14,9 +14,9 @@ featured_image: /images/demo/about.jpg
 
 <h4>Skills:</h4>
 
-<strong>Proficient:</strong> Ruby, Rails, Javascript, React
+<strong>Highly Proficient:</strong> React, Redux, Javascript, Ruby, Rails, 
 
-<strong>Familiar:</strong>  Python, SQL, HTML, CSS
+<strong>Proficient:</strong>  SQL, HTML, CSS
 
 <strong>Additional:</strong>  Spanish, Japanese, Public Speaking, Copywriting, Instructional Design
 
