@@ -16,9 +16,9 @@ featured_image: /images/demo/about.jpg
 
 <strong>Highly Proficient:</strong> React, Redux, Javascript, Ruby, Rails, 
 
-<strong>Proficient:</strong>  SQL, HTML, CSS
+<strong>Proficient:</strong> SQL, HTML, CSS
 
-<strong>Additional:</strong>  Spanish, Japanese, Public Speaking, Copywriting, Instructional Design
+<strong>Non-technical:</strong> Spanish, Japanese, Instructional Design, Written & Oral Coms., Facilitation
 
 <h4>Background:</h4>
 My past experiences have influenced my approach to software development immensely.
