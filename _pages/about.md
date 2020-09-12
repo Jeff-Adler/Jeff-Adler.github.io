@@ -21,7 +21,7 @@ featured_image: /images/demo/about.jpg
 <strong>Non-technical:</strong> Spanish, Japanese, Instructional Design, Written & Oral Coms., Facilitation
 
 <h4>Background:</h4>
-My past experiences have influenced my approach to software development immensely.
+I am a product of my past, and my approach to software development reflects that!
 
 As a programmatic ad specialist , I learned the importance of making technology that solves real business problems. By <a href="https://news.semasio.com/market-to-customers-in-their-own-words">applying Natural Language Processing techniques to digital advertising</a>,
 we increased marketers' return on ad spend, by providing  <a href="https://news.semasio.com/helping-marketers-in-the-search-for-significance">reliable methods of predicting consumer behavior</a>.
