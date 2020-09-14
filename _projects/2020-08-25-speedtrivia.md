@@ -1,5 +1,5 @@
 ---
-title: 'Trivia Time Attack!'
+title: 'Trivia Attack!'
 subtitle: 'High-octane trivia app to pass the time'
 date: 2020-08-25 00:00:00
 description: This app generates timed and non-timed quizzes from the Open Trivia Api, and logs scores to a leaderboard.
