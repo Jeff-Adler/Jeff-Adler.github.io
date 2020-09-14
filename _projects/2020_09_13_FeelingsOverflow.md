@@ -17,5 +17,5 @@ Github:
 <a href= "https://github.com/Jeff-Adler/feelingsOverflow-front-end">Frontend</a>
 
 
-Check out a YouTube walkthrough! Note: Quirk is on full display here 😜
+Check out a YouTube walkthrough! Quirk is on full display 😜
 <iframe width="560" height="315" src="https://www.youtube.com/embed/74Nk6DSQvCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
