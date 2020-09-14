@@ -1,6 +1,6 @@
 ---
-title: 'Trivia Attack!'
-subtitle: 'High-octane trivia app to pass the time'
+title: 'Trivia Attack'
+subtitle: 'High-octane trivia app!
 date: 2020-08-25 00:00:00
 description: This app generates timed and non-timed quizzes from the Open Trivia Api, and logs scores to a leaderboard.
 featured_image: '/images/demo/trivia-friends.jpg'
