@@ -1,6 +1,6 @@
 ---
 title: 'FeelingsOverflow'
-subtitle: 'StackOverflow, but for emotions.'
+subtitle: 'StackOverflow, but for your feelings.'
 date: 2020-09-13 00:00:00
 description: This social media app allows users to post about mental health difficulties. Users can comment on posts and comments are voted on. All user information is stored in PostgreSQL database, and protected behind OAuth.
 featured_image: '/images/demo/naruto_crying_cropped.gif'
