@@ -4,31 +4,29 @@ subtitle: Skills, Experience, and Education
 description: Personal Facts and Resume
 featured_image: /images/demo/about.jpg
 ---
-<h4>Location:</h4> 
 
-<strong>Brooklyn, NY</strong> 
+<h4>Location:</h4>
 
-<h4>Email:</h4> 
+<strong>Brooklyn, NY</strong>
 
-<strong>JeffM.Adler@gmail.com</strong> 
+<h4>Email:</h4>
+
+<strong>JeffM.Adler@gmail.com</strong>
 
 <h4>Skills:</h4>
 
-<strong>Highly Proficient:</strong> React, Redux, Javascript, Ruby, Rails, 
-
-<strong>Proficient:</strong> SQL, HTML, CSS
-
-<strong>Non-technical:</strong> Spanish, Japanese, Instructional Design, Written & Oral Coms., Facilitation
+React, React Native, Redux, Javascript, Ruby, Rails, SQL, HTML, CSS
 
 <h4>Background:</h4>
+
 I am a product of my past, and my approach to software development reflects that!
 
 As a programmatic ad specialist , I learned the importance of making technology that solves real business problems. By <a href="https://news.semasio.com/market-to-customers-in-their-own-words">applying Natural Language Processing techniques to digital advertising</a>,
-we increased marketers' return on ad spend, by providing  <a href="https://news.semasio.com/helping-marketers-in-the-search-for-significance">reliable methods of predicting consumer behavior</a>.
+we increased marketers' return on ad spend, by providing <a href="https://news.semasio.com/helping-marketers-in-the-search-for-significance">reliable methods of predicting consumer behavior</a>.
 
 As a graduate student of Linguistics, I learned to appropriately adapt complex algorithms for specific tasks. In this case, to <a href="https://link.springer.com/article/10.1007/s11049-020-09478-8">mental models of Natural Language Processing</a>.
 
-As a Fulbright English Teaching Assistant, undergraduate Linguistics instructor, and finally, Learning & Development program manager, I 
+As a Fulbright English Teaching Assistant, undergraduate Linguistics instructor, and finally, Learning & Development program manager, I
 learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation-of-talent-to-fuel-a-next-generation-digital-marketing-supply-chain/">design and communication principles</a> necessary to maximize learner and user engagement.
 
 <h4>Resume:</h4>
@@ -110,7 +108,9 @@ When not programming, I'm likely sipping a coffee in the park, discussing the re
      <div class="gr_grid_book_container"><a title="The Amazing Adventures of Kavalier & Clay" rel="nofollow" href="https://www.goodreads.com/book/show/15749201-the-amazing-adventures-of-kavalier-clay"><img alt="The Amazing Adventures of Kavalier & Clay" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343745802l/15749201._SX98_.jpg" /></a></div>
      <div class="gr_grid_book_container"><a title="The Corrections" rel="nofollow" href="https://www.goodreads.com/book/show/6562879-the-corrections"><img alt="The Corrections" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327289843l/6562879._SX98_.jpg" /></a></div>
     <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/118878134-jeffrey-adler">Jeffrey Adler's favorite books »</a>
-  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Jeffrey, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+
+<noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Jeffrey, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+
   </div>
 
       </div>
@@ -119,13 +119,11 @@ When not programming, I'm likely sipping a coffee in the park, discussing the re
 </html>
 
 <!--- Embedded PDF viewer: (removed because it renders stretched on mobile)
-<html> 
-<body> 
+<html>
+<body>
     <object id="resume" data="/documents/Resume_5-14-2020.pdf" type="application/pdf" >
         <embed src="/documents/Resume_5-14-2020.pdf" type="application/pdf" width=”10000” height=”10000” />
     </object>
-</body> 
-</html> 
+</body>
+</html>
 -->
-
-
