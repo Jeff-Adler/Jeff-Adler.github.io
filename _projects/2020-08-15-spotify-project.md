@@ -2,7 +2,7 @@
 title: "Love in the Age of Spotify"
 subtitle: "Spotify-based Dating App"
 date: 2020-08-15 00:00:00
-description: This dating app leverages the Spotify API to help people find people with similar musical interests.
+description: This dating app leverages the Spotify API to help people find people with similar musical interests.  <br/><br/> Ruby, ActiveRecord, SQLite3, Spotify API
 featured_image: "/images/demo/couple_headphones.jpg"
 ---
 

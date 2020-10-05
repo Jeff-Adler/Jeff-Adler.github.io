@@ -2,7 +2,7 @@
 title: "FeelingsOverflow"
 subtitle: "StackOverflow, but for feelings."
 date: 2020-09-13 00:00:00
-description: This social media app allows users to post about mental health difficulties. Users can comment on posts and comments are voted on. All user information is stored in PostgreSQL database, and protected behind OAuth.
+description: Forum-based app in which users post, comment, and vote on mental health questions and concerns. <br/><br/> React, Ruby on Rails, PostgreSQL, React-Strap
 featured_image: "/images/demo/naruto_crying_cropped.gif"
 ---
 
