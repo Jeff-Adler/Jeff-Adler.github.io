@@ -2,7 +2,7 @@
 title: "FeelingsOverflow"
 subtitle: "StackOverflow, but for feelings."
 date: 2020-09-13 00:00:00
-description: Forum-based app in which users post, comment, and vote on mental health questions and concerns. <br/><br/> React, Ruby on Rails, PostgreSQL, React-Strap
+description: Forum-based app in which users post, comment, and vote on mental health questions and concerns. <br/><br/> <strong> React, Ruby on Rails, PostgreSQL, React-Strap </strong>
 featured_image: "/images/demo/naruto_crying_cropped.gif"
 ---
 
