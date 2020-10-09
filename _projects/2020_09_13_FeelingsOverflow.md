@@ -12,6 +12,8 @@ featured_image: "/images/demo/naruto_crying_cropped.gif"
 
 <h4>Description:</h4> This app allows users to post about mental health conflicts. They are presented with a guided set of questions to inform their post, as well as categorize the post and mark it if the issue is pressing. Users can search through posts, and leave comments to provide advice to people. Comments are voted, and presented in descending order from highest- to lowest-voted comment. Users profiles, posts, comments, and votes are held in stable database. And, all user credentials are validated and protected behind OAuth. The app uses React-Strap styling.
 
+Check out the live version of the app! <a href= "https://feelings-overflow-app.herokuapp.com/">feelingsOverflow App!</a>
+
 <h4>Github:</h4>
 <a href= "https://github.com/Jeff-Adler/feelingsOverflow-back-end">Backend</a>
 <a href= "https://github.com/Jeff-Adler/feelingsOverflow-front-end">Frontend</a>
