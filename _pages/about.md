@@ -15,55 +15,7 @@ featured_image: /images/demo/about.jpg
 
 <h4>Skills:</h4>
 
-<img src="/images/skills/iconfinder_React.js_logo_1174949.png"
-     alt="React"
-     width="100"
-     height="100"
-     style="float: left; margin-right: 20px;"/>
-
-<img src="/images/skills/react-native-logo.png"
-     alt="React Native"
-     width="120"
-     height="120"
-     style="float: left; margin-right: 20px;" />
-
-<img src="/images/skills/javascript-icon.png"
-     alt="JavaScript"
-     width="100"
-     height="100"
-     style="float: left; margin-right: 20px;" />
-
-<img src="/images/skills/ruby_icon.png"
-     alt="Ruby"
-     width="85"
-     height="85"
-     style="float: left; margin-right: 34px;" />
-
-<img src="/images/skills/rails_icon_3.png"
-     alt="Rails"
-     width="98"
-     height="98"
-     style="float: left; margin-right: 20px;" />
-
-<img src="/images/skills/sql_icon_2.png"
-     alt="SQL"
-     width="100"
-     height="100"
-     style="float: left; margin-right: 3px;" />
-
-<img src="/images/skills/html_icon_2.png"
-     alt="HTML"
-     width="105"
-     height="105"
-     style="float: left; margin-right: 18px;" />
-
-<img src="/images/skills/css_icon.png"
-     alt="CSS"
-     width="69"
-     height="69"
-     style="float: left; margin-right: 10px;" />
-
-<br/><br/><br/>
+<strong>React | React Native | Redux | JavaScript | Ruby | Rails | SQL | HTML | CSS | Bootstrap | Git | Heroku</strong>
 
 <h4>Background:</h4>
 
