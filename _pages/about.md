@@ -79,7 +79,7 @@ learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation
 
 <h4>Resume:</h4>
 
-<a id="resume_link" href="https://drive.google.com/file/d/113X5dCQruRhqrJ1SCu72QjvpKo8wlyUp/view?usp=sharing">Updated 10.6.2020</a>
+<a id="resume_link" href="https://drive.google.com/file/d/16vo-AslGMimaXEn8mbEqV-cH8DhfMoDD/view?usp=sharing">Updated 10.11.2020</a>
 
 <h4>Interests:</h4>
 
