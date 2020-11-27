@@ -31,7 +31,7 @@ learned the <a href= "https://www.mediamath.com/blog/growing-the-next-generation
 
 <h4>Resume:</h4>
 
-<a id="resume_link" href="https://drive.google.com/file/d/1GPbVsi_KAA0WAeEP5fcMlqzyA1Ecn0yg/view?usp=sharing">Updated 10.20.2020</a>
+<a id="resume_link" href="https://drive.google.com/file/d/1Ttnb5rCfdpmJA80Q2_3YvFWgq5fahO-5/view?usp=sharing">Updated 11.27.2020</a>
 
 <h4>Interests:</h4>
 
